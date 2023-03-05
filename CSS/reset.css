@@ -1,0 +1,10 @@
+@inport url("https://fonts.google.com/specimen/Montserrat#styles");
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    border: none;
+}
